@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MixedPsy"]
+	path = MixedPsy
+	url = https://github.com/moskante/mixedpsy
+	shallow = true
+	registered = true
